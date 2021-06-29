@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Source](https://github.com/waltersono/testimonials-grid-section)
-- Live Site URL: [Live](https://waltersono.github.io/testimonials-grid-section/)
+- Solution URL: [Source code](https://github.com/waltersono/testimonials-grid-section)
+- Live Site URL: [Live project](https://waltersono.github.io/testimonials-grid-section/)
 
 ## My process
 
@@ -43,6 +43,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Media queries
 
 
 ## Author
